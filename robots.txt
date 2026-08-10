@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-malenkim-popolneniem.github.io
+Sitemap: https://kazino-s-malenkim-popolneniem.github.io/sitemap.xml
